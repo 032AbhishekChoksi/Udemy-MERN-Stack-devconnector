@@ -1,3 +1,3 @@
 {
-  "mongoURI": "mongodb+srv://root:root@cluster0.jztuj.mongodb.net/?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://root:root@devconnector.rtn04.mongodb.net/?retryWrites=true&w=majority"
 }
