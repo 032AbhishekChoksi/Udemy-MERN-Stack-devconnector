@@ -14,7 +14,7 @@ const UserSchema = new mongoose.Schema({
         type: String,
         required: true
     },
-    avtar: {
+    avatar: {
         type: String
     },
     date: {
