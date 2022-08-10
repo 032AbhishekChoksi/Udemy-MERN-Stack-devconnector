@@ -1,6 +1,6 @@
 {
     "mongoURI": "mongodb+srv://root:root/udemy?retryWrites=true&w=majority",
     "jwtSecret": "mysecrettoken",
-    "githubClientID": "3981ec749bb3b51b1574",
-    "githubClientsecret": "52896c17a8574566e0b59c0c69ef60526dfe7433"
+    "githubClientID": "githubClientID",
+    "githubClientsecret": "githubClientsecret"
 }
